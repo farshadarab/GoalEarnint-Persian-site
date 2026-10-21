@@ -1,0 +1,8 @@
+{
+  "name": "GoalEarn International - گل‌اِرن",
+  "description": "برنامه‌ها و خدمات خصوصی و اختصاصی برای توسعه مسیر شغلی بین‌المللی، ورود به بازارهای جهانی، هاب کار و زندگی در ارمنستان و بررسی شواهد سابقه کار.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
